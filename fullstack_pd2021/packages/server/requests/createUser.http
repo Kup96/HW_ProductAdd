@@ -1,0 +1,9 @@
+POST http://127.0.0.1:5000/api/users HTTP/1.1
+Content-Type: application/json
+
+{
+    "firstName": "Ann2",
+    "lastName": "Zee2",
+    "email": "ann123352@gmail.com",
+    "password": "qwerty2"
+}
